@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body>
+
+<h1>Enis Masic</h1>
+<p>I am a 4th year ITM student. </p>
+
+<h2>Hobbies:</h2>
+<ul>
+	<li> Working Out</li>
+    <li> Playing Video Games</li>
+    <li> Traveling</li>
+    <li> Hiking</li>
+</ul>
+
+<h3>Here is a cool gif</h3>
+<img src="goku.gif" alt="Goku" width="500" height="333">
+
+
+
+</body>
+</html>
+
+
